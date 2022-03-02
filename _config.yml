@@ -3,7 +3,8 @@ title: Forty
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: /imcbioinformatics.github.io
+baseurl:
+# /imcbioinformatics.github.io
 # the subpath of your site, e.g. /blog
 url: https://imcbioinformatics.github.io/
 # the base hostname & protocol for your site
